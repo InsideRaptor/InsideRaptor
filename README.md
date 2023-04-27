@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InsideRaptor
-- 👀 I’m interested in web and game development
-- 🌱 I’m currently learning Python, HTML, CSS and JavaScript
+- 👀 I’m interested in web, game and mobile development
+- 🌱 I’m currently learning React Native, Maven, MySQL and Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
