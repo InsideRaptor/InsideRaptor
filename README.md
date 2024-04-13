@@ -30,9 +30,9 @@ Thank you for visiting my profile! Let's create something amazing together! ✨
 
 <div align="center">
 <a href="https://github.com/InsideRaptor/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=InsideRaptor&theme=transparent" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=InsideRaptor&theme=transparent" />
 </a>
 <a href="https://github.com/InsideRaptor/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=InsideRaptor&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=InsideRaptor&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
