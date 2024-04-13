@@ -1,5 +1,3 @@
-Certainly! Here's an updated and stylish version of your README profile:
-
 # Hi, I'm Giuliano Loreti 👋
 
 Welcome to my GitHub profile!
@@ -11,26 +9,30 @@ I'm a passionate Full-Stack Developer with a keen interest in web and game devel
 I'm always excited about collaborating on new projects. If you have any interesting ideas or opportunities, feel free to reach out to me.
 
 ## Contact
-You can connect with me through the following channels:
+<div align="center">
+  <h3><b>Let's get in touch! </b></h3>
+  </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/giulianoloreti/" target="_blank">
+  <img align="center" alt="Giuliano Loreti | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:giulianobloreti@gmail.com" >
+  <img align="center" alt="Giuliano Loreti | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
 
-<div align="center"  class="icons-social" style="margin-left: 10px;">
-      <a target="_blank" href="https://www.linkedin.com/in/giulianoloreti/">
-  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-      <a style="margin-left: 10px;" target="_blank" href="https://github.com/InsideRaptor">
-  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-      <a style="margin-left: 10px;" target="_blank" href="giulianobloreti@gmail.com">
-  <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-</p>
-
+<div align="center">     
+<p>
 Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions or suggestions.
-
+      
 Thank you for visiting my profile! Let's create something amazing together! ✨
+</p>
+</div>
 
+<div align="center">
 <a href="https://github.com/InsideRaptor/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=InsideRaptor&theme=transparent" />
 </a>
 <a href="https://github.com/InsideRaptor/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=InsideRaptor&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-<p align="center">
+</div>
