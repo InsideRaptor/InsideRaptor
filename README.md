@@ -35,5 +35,4 @@ Thank you for visiting my profile! Let's create something amazing together! ✨
 <a href="https://github.com/InsideRaptor/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=InsideRaptor&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
-  ![Snake animation](https://github.com/InsideRaptor/InsideRaptor/blob/output/github-contribution-grid-snake.svg)
 </div>
