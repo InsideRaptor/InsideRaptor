@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## About Me
-I'm a passionate Full-Stack Developer with a keen interest in web and game development. I'm also intrigued by the fascinating world of AI and Machine Learning. I love exploring new technologies and finding innovative solutions to complex problems. Currently, I'm focused on expanding my knowledge in React Native, Kotlin, Microservice Based Architecture, and Machine Learning to take my development skills to the next level.
+I'm a passionate Full-Stack Developer with a keen interest in web and game development. I'm also intrigued by the fascinating world of AI and Machine Learning. I love exploring new technologies and finding innovative solutions to complex problems. Currently, I'm focused on expanding my knowledge in React Native, Django, Kotlin, Microservice Based Architecture, and Machine Learning to take my development skills to the next level.
 
 ## Collaboration
 I'm always excited about collaborating on new projects. If you have any interesting ideas or opportunities, feel free to reach out to me.
